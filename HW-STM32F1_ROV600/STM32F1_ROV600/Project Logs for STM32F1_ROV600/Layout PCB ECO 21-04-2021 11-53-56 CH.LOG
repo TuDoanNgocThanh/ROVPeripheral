@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetLED4_2 Pin=U-42
+Removed Pin From Net: NetName=NetLED3_2 Pin=U-43
+Added Pin To Net: NetName=NetLED3_2 Pin=U-42
+Added Pin To Net: NetName=NetLED4_2 Pin=U-43
+Added Room: Name=Microcontroller
+Added Room: Name=Peripheral
+Added Room: Name=XL4015

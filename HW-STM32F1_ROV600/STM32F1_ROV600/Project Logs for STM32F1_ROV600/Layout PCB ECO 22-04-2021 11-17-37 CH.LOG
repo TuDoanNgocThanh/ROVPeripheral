@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetU1_1 Pin=U-12
+Removed Pin From Net: NetName=NetU2_1 Pin=U-13
+Added Pin To Net: NetName=NetU2_1 Pin=U-12
+Added Pin To Net: NetName=NetU1_1 Pin=U-13
+Added Room: Name=Microcontroller
+Added Room: Name=Peripheral
+Added Room: Name=XL4015

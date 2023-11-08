@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=Q2 Old Footprint=QTO-220NH New Footprint=QTO-220
+Change Component Footprint: Designator=Q3 Old Footprint=QTO-220NH New Footprint=QTO-220
+Change Component Footprint: Designator=Q5 Old Footprint=QTO-220NH New Footprint=QTO-220
+Change Component Footprint: Designator=Q6 Old Footprint=QTO-220NH New Footprint=QTO-220
+Change Component Comment : Designator=DZ1 Old Comment=Zener 1/2W New Comment=Zener 12V
+Added Pin To Net: NetName=NetLED3_2 Pin=U-42
+Added Room: Name=Microcontroller
+Added Room: Name=Peripheral

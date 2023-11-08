@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=DZ? NewDesignator=DZ4
+Change Component Designator: OldDesignator=U NewDesignator=U7
+Change Component Designator: OldDesignator=U NewDesignator=U8
+Change Net Name : Old Net Name=NetDZ?_2 New Net Name=NetDZ4_2
+Change Net Name : Old Net Name=NetU_7 New Net Name=NetU8_7
+Added Member To Class: ClassName=Microcontroller Member=Component U7 AMS1117-3.3
+Added Room: Name=Microcontroller
+Added Room: Name=Peripheral

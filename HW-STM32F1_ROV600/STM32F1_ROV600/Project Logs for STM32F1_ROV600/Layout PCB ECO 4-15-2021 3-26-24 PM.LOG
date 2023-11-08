@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Added Member To Class: ClassName=Peripheral Member=Component D2 FR107
+Added Room: Name=Microcontroller
+Added Room: Name=Peripheral

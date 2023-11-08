@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [STM32F1_ROV600.PrjPCB]
+   Generated File[Layout.TXT]
+   Generated File[Layout.LDP]
+   Generated File[Layout.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:40:00 CH On 10/05/2021

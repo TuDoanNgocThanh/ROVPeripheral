@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=L1 Old Footprint=L-SMD-M-7.3x4.5 New Footprint=L-DIP-M-18.5x8
+Added Room: Name=Microcontroller
+Added Room: Name=Peripheral
+Added Room: Name=XL4015

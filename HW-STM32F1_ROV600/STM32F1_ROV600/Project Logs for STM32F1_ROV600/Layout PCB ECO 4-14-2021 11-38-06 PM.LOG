@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=D1 Old Footprint=D1A New Footprint=SM-DIODE
+Change Component Comment : Designator=D1 Old Comment=FR New Comment=FR107
+Change Component Comment : Designator=D2 Old Comment=FR New Comment=FR107
+Added Member To Class: ClassName=Microcontroller Member=Component U STM32F103C8T6
+Added Room: Name=Microcontroller
+Added Room: Name=Peripheral

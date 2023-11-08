@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=GND Pin=D1-xl-1
+Removed Pin From Net: NetName=NetD1-xl_2 Pin=D1-xl-2
+Removed Member From Class: ClassName=XL4015 Member=D1-xl
+Change Component Footprint: Designator=COUT Old Footprint=CAP-ALU-SMD-4.5x5x1.4 New Footprint=CAP-ALU-SMD-F
+Added Component: Designator=D(DIOM4336X244N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JCET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SS54B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SS54B/JCET/view-part/105689/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D-A
+Added Pin To Net: NetName=NetD1-xl_2 Pin=D-C
+Change Net Name : Old Net Name=NetD1-xl_2 New Net Name=NetD_C
+Added Member To Class: ClassName=XL4015 Member=Component D SS54B
+Added Room: Name=Microcontroller
+Added Room: Name=Peripheral
+Added Room: Name=XL4015

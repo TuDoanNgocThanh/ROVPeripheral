@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=Q2 Old Footprint=QTO-220 New Footprint=QTO-220NH
+Change Component Footprint: Designator=Q3 Old Footprint=QTO-220 New Footprint=QTO-220NH
+Change Component Footprint: Designator=Q5 Old Footprint=QTO-220 New Footprint=QTO-220NH
+Change Component Footprint: Designator=Q6 Old Footprint=QTO-220 New Footprint=QTO-220NH
+Added Room: Name=Microcontroller
+Added Room: Name=Peripheral
+Added Room: Name=XL4015

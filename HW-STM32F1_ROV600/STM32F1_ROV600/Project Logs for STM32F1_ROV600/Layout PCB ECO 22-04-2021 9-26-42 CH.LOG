@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=12V Pin=HD1-2
+Change Net Name : Old Net Name=+12 New Net Name=+12V
+Added Room: Name=Microcontroller
+Added Room: Name=Peripheral
+Added Room: Name=XL4015

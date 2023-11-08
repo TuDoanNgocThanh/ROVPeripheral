@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=GND_MOTOR Pin=D-A
+Removed Pin From Net: NetName=NetD_C Pin=D-C
+Removed Member From Class: ClassName=Peripheral Member=D
+Change Component Footprint: Designator=C16 Old Footprint=AVX-E New Footprint=SM-Cap-1206
+Change Component Footprint: Designator=C17 Old Footprint=CP1/2 New Footprint=SM-Cap-1206
+Change Component Footprint: Designator=DZ1 Old Footprint=LED-1206 New Footprint=D1A
+Change Component Footprint: Designator=DZ2 Old Footprint=LED-1206 New Footprint=D1A
+Change Component Footprint: Designator=DZ3 Old Footprint=LED-1206 New Footprint=D1A
+Change Component Footprint: Designator=D4 Old Footprint=LED-1206 New Footprint=DZ5A
+Change Component Footprint: Designator=D6 Old Footprint=LED-1206 New Footprint=DZ5A
+Change Component Footprint: Designator=D8 Old Footprint=LED-1206 New Footprint=DZ5A
+Change Component Footprint: Designator=D10 Old Footprint=LED-1206 New Footprint=DZ5A
+Added Component: Designator=DZ?(D1A)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC16_1 Pin=C16-1
+Added Pin To Net: NetName=NetC16_2 Pin=C16-2
+Added Pin To Net: NetName=GND Pin=D4-1
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=GND Pin=D6-1
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=GND Pin=D8-1
+Added Pin To Net: NetName=NetD8_2 Pin=D8-2
+Added Pin To Net: NetName=GND Pin=D10-1
+Added Pin To Net: NetName=NetD10_2 Pin=D10-2
+Added Pin To Net: NetName=NetC16_2 Pin=DZ1-1
+Added Pin To Net: NetName=NetDZ1_2 Pin=DZ1-2
+Added Pin To Net: NetName=NetC17_2 Pin=DZ2-1
+Added Pin To Net: NetName=NetDZ2_2 Pin=DZ2-2
+Added Pin To Net: NetName=GND_MOTOR Pin=DZ3-1
+Added Pin To Net: NetName=NetDZ3_2 Pin=DZ3-2
+Added Pin To Net: NetName=GND_MOTOR Pin=DZ?-1
+Added Pin To Net: NetName=NetD_C Pin=DZ?-2
+Change Net Name : Old Net Name=NetD_C New Net Name=NetDZ?_2
+Added Member To Class: ClassName=Peripheral Member=Component DZ? Zener 12V
+Added Member To Class: ClassName=Microcontroller Member=Component U STM32F103C8T6

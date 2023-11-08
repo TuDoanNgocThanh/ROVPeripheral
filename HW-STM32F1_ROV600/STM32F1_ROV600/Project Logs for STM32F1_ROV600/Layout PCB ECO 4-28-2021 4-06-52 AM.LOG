@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetJP6_3 Pin=U-30
+Removed Pin From Net: NetName=NetJP6_2 Pin=U-31
+Added Pin To Net: NetName=NetJP6_2 Pin=U-30
+Added Pin To Net: NetName=NetJP6_3 Pin=U-31
+Added Room: Name=Microcontroller
+Added Room: Name=Peripheral
+Added Room: Name=XL4015

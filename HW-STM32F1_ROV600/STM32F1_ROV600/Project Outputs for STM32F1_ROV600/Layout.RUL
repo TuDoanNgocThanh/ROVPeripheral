@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: D:\VIAM\ROV\ROV-600\hardware\STM32F1_ROV600_fixdone\STM32F1_ROV600\STM32F1_ROV600\Layout.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

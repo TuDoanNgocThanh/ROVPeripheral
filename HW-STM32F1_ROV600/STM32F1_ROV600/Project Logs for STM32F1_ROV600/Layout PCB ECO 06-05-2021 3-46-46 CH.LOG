@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=CIN Old Footprint=CAP-ALU-SMD-F New Footprint=CAP-ALU-SMD-6.3x7.7x2.2
+Added Room: Name=Microcontroller
+Added Room: Name=Peripheral
+Added Room: Name=XL4015

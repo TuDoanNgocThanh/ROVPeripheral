@@ -1,0 +1,15 @@
+Removed Member From Class: ClassName=Peripheral Member=DZ4
+Added Component: Designator=D(DIOMELF1912N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BZM55B4V7-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-2 Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BZM55B4V7-TR/Vishay%20Semiconductor%20Diodes%20Division/view-part/592519/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND_MOTOR Pin=D-A
+Added Pin To Net: NetName=NetDZ4_2 Pin=D-C
+Change Net Name : Old Net Name=NetDZ4_2 New Net Name=NetD_C
+Added Member To Class: ClassName=Peripheral Member=Component D BZM55B4V7-TR
+Added Member To Class: ClassName=Microcontroller Member=Component U STM32F103C8T6

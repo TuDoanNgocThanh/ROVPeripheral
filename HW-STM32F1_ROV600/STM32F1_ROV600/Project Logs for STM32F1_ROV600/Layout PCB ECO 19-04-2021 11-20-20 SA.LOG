@@ -1,0 +1,12 @@
+Removed Member From Class: ClassName=XL4015 Member=C2
+Removed Member From Class: ClassName=Peripheral Member=D1-xl
+Removed Member From Class: ClassName=Peripheral Member=D2-xl
+Removed Member From Class: ClassName=Peripheral Member=U1xl
+Removed Member From Class: ClassName=Microcontroller Member=Uxl
+Change Component Designator: OldDesignator=C2 NewDesignator=C2-xl
+Added Member To Class: ClassName=XL4015 Member=Component C2-xl 105
+Added Member To Class: ClassName=Peripheral Member=Component D1 FR107
+Added Member To Class: ClassName=Peripheral Member=Component U1 IR2184
+Added Room: Name=Microcontroller
+Added Room: Name=Peripheral
+Added Room: Name=XL4015

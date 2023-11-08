@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=12V Pin=Q2-TAB
+Added Room: Name=Microcontroller
+Added Room: Name=Peripheral
+Added Room: Name=XL4015

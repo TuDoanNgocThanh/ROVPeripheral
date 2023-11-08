@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=GND Pin=C1-xl2-1
+Removed Pin From Net: NetName=12V Pin=C1-xl2-2
+Removed Pin From Net: NetName=GND Pin=C2-xl2-1
+Removed Pin From Net: NetName=12V Pin=CC1-2
+Removed Pin From Net: NetName=12V Pin=CIN1-1
+Removed Pin From Net: NetName=GND Pin=CIN1-2
+Removed Pin From Net: NetName=GND Pin=COUT1-2
+Removed Pin From Net: NetName=GND Pin=D2-xl-1
+Removed Pin From Net: NetName=GND Pin=P2-2
+Removed Pin From Net: NetName=GND Pin=R3xl-2
+Removed Pin From Net: NetName=GND Pin=U1xl-1
+Removed Pin From Net: NetName=12V Pin=U1xl-5
+Removed Member From Class: ClassName=XL4015 Member=C1-xl2
+Removed Member From Class: ClassName=XL4015 Member=C2-xl2
+Removed Member From Class: ClassName=XL4015 Member=CC1
+Removed Member From Class: ClassName=XL4015 Member=CFF1
+Removed Member From Class: ClassName=XL4015 Member=CIN1
+Removed Member From Class: ClassName=XL4015 Member=COUT1
+Removed Member From Class: ClassName=XL4015 Member=D2-xl
+Removed Member From Class: ClassName=XL4015 Member=L2
+Removed Member From Class: ClassName=XL4015 Member=P2
+Removed Member From Class: ClassName=XL4015 Member=R3xl
+Removed Member From Class: ClassName=XL4015 Member=R4xl
+Removed Member From Class: ClassName=XL4015 Member=U1xl
+Added Room: Name=Microcontroller
+Added Room: Name=Peripheral
+Added Room: Name=XL4015

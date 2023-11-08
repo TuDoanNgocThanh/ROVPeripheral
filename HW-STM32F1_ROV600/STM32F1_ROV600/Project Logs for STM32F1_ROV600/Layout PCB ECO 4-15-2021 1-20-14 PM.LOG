@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=JP8 Old Footprint=CON4 New Footprint=JP4
+Added Room: Name=Microcontroller
+Added Room: Name=Peripheral

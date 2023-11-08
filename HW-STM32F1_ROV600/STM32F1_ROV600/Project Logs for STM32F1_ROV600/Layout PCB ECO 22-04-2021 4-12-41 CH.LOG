@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=5V Pin=C1-2
+Added Pin To Net: NetName=5V Pin=C2-2
+Added Pin To Net: NetName=5V Pin=C2-xl-2
+Added Pin To Net: NetName=5V Pin=CFF-2
+Added Pin To Net: NetName=5V Pin=COUT-1
+Added Pin To Net: NetName=5V Pin=L1-2
+Added Pin To Net: NetName=5V Pin=R2xl-1
+Added Pin To Net: NetName=5V Pin=U7-3
+Added Room: Name=Microcontroller
+Added Room: Name=Peripheral
+Added Room: Name=XL4015

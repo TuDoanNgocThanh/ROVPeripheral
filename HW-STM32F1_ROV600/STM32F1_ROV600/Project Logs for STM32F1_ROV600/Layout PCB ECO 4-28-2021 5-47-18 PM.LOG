@@ -1,0 +1,16 @@
+Added Component: Designator=LED7(SM-LED-0805-Blue)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(SM-RES-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=LED7-2
+Added Pin To Net: NetName=5V Pin=R1-2
+Added Pin To Net: NetName=NetLED7_1 Pin=LED7-1
+Added Pin To Net: NetName=NetLED7_1 Pin=R1-1
+Added Net: Name=NetLED7_1
+Added Member To Class: ClassName=XL4015 Member=Component D1-xl D Schottky
+Added Member To Class: ClassName=XL4015 Member=Component LED7 LED SMD
+Added Member To Class: ClassName=XL4015 Member=Component R1 510R
+Added Room: Name=Microcontroller
+Added Room: Name=Peripheral
+Added Room: Name=XL4015

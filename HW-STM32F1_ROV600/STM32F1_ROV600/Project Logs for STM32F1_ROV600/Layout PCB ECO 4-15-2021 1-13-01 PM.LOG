@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=Peripheral Member=U7
+Removed Member From Class: ClassName=Microcontroller Member=U8
+Added Member To Class: ClassName=Peripheral Member=Component U8 ACS712ELCTR-05B-T

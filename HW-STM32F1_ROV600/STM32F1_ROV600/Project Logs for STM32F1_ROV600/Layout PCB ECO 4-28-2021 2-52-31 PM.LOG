@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetJP5_3 Pin=U-21
+Removed Pin From Net: NetName=NetJP5_2 Pin=U-22
+Added Pin To Net: NetName=NetJP5_2 Pin=U-21
+Added Pin To Net: NetName=NetJP5_3 Pin=U-22
+Added Member To Class: ClassName=Microcontroller Member=Component JP8 JP4
+Added Room: Name=Microcontroller
+Added Room: Name=Peripheral
+Added Room: Name=XL4015

@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetJP5_2 Pin=JP6-2
+Removed Pin From Net: NetName=NetLED3_2 Pin=U-42
+Added Pin To Net: NetName=NetC16_2 Pin=U-12
+Added Pin To Net: NetName=NetC17_2 Pin=U-13
+Added Pin To Net: NetName=NetJP5_3 Pin=U-21
+Added Pin To Net: NetName=NetJP5_2 Pin=U-22
+Added Pin To Net: NetName=NetLED5_2 Pin=U-42
+Added Pin To Net: NetName=NetLED6_2 Pin=U-43
+Added Pin To Net: NetName=NetLED3_2 Pin=U-45
+Added Pin To Net: NetName=NetLED4_2 Pin=U-46
+Added Pin To Net: NetName=NetJP6_2 Pin=JP6-2
+Added Net: Name=NetJP6_2
+Added Room: Name=Microcontroller
+Added Room: Name=Peripheral
+Added Room: Name=XL4015

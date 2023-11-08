@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=Q2 Old Footprint=TO-252 New Footprint=DPAK229P994X241-3N
+Change Component Footprint: Designator=Q3 Old Footprint=TO-252 New Footprint=DPAK229P994X241-3N
+Added Pin To Net: NetName=12V Pin=Q3-TAB
+Added Room: Name=Microcontroller
+Added Room: Name=Peripheral
+Added Room: Name=XL4015

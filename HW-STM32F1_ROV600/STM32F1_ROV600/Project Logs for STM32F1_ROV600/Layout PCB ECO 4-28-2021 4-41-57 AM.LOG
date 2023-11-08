@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=5V Pin=U1-2
+Removed Pin From Net: NetName=5V Pin=U2-2
+Added Member To Class: ClassName=XL4015 Member=Component P2 Header 2 - M
+Added Room: Name=Microcontroller
+Added Room: Name=Peripheral
+Added Room: Name=XL4015

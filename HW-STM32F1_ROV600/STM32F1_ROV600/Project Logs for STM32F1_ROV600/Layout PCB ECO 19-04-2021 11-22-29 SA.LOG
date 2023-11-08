@@ -1,0 +1,17 @@
+Removed Member From Class: ClassName=Microcontroller Member=C2-xl
+Removed Member From Class: ClassName=XL4015 Member=R1
+Removed Member From Class: ClassName=XL4015 Member=R2
+Removed Member From Class: ClassName=XL4015 Member=R3
+Removed Member From Class: ClassName=XL4015 Member=R4
+Change Component Designator: OldDesignator=R1 NewDesignator=R1xl
+Change Component Designator: OldDesignator=R2 NewDesignator=R2xl
+Change Component Designator: OldDesignator=R3 NewDesignator=R3xl
+Change Component Designator: OldDesignator=R4 NewDesignator=R4xl
+Added Member To Class: ClassName=Microcontroller Member=Component C2 100nF
+Added Member To Class: ClassName=XL4015 Member=Component R1xl 3.3k
+Added Member To Class: ClassName=XL4015 Member=Component R2xl 10k
+Added Member To Class: ClassName=XL4015 Member=Component R3xl 3.3k
+Added Member To Class: ClassName=XL4015 Member=Component R4xl 10k
+Added Room: Name=Microcontroller
+Added Room: Name=Peripheral
+Added Room: Name=XL4015

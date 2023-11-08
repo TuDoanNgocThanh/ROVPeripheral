@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=Q2 Old Footprint=QTO-220 New Footprint=TO-252
+Change Component Footprint: Designator=Q3 Old Footprint=QTO-220 New Footprint=TO-252
+Change Component Footprint: Designator=Q6 Old Footprint=QTO-220 New Footprint=TO-252
+Added Component: Designator=Q5(TO-252)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Infineon Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "IPD025N06N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-252-3 Infineon Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/IPD025N06N/Infineon%20Technologies/view-part/666018/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDZ6_2 Pin=Q5-1
+Added Pin To Net: NetName=GND_MOTOR Pin=Q5-3
+Added Member To Class: ClassName=Peripheral Member=Component Q5 IPD025N06N
+Added Room: Name=Microcontroller
+Added Room: Name=Peripheral
+Added Room: Name=XL4015

@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=NetDZ2_2 Pin=Q3-1
+Removed Pin From Net: NetName=NetC16_2 Pin=Q3-3
+Removed Pin From Net: NetName=12V Pin=Q3-TAB
+Removed Pin From Net: NetName=NetDZ6_2 Pin=Q5-1
+Removed Pin From Net: NetName=NetDZ5_2 Pin=Q6-1
+Removed Pin From Net: NetName=GND_MOTOR Pin=Q6-3
+Removed Member From Class: ClassName=Peripheral Member=Q6
+Change Component Footprint: Designator=Q5 Old Footprint=TO-252 New Footprint=DPAK229P994X241-3N
+Added Component: Designator=Q(DPAK229P994X241-3N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Infineon Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "IPD025N06N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-252-3 Infineon Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/IPD025N06N/Infineon%20Technologies/view-part/666018/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDZ6_2 Pin=Q3-1
+Added Pin To Net: NetName=GND_MOTOR Pin=Q3-3
+Added Pin To Net: NetName=NetC17_2 Pin=Q3-TAB
+Added Pin To Net: NetName=NetDZ5_2 Pin=Q5-1
+Added Pin To Net: NetName=NetC16_2 Pin=Q5-TAB
+Added Pin To Net: NetName=NetDZ2_2 Pin=Q-1
+Added Pin To Net: NetName=NetC16_2 Pin=Q-3
+Added Pin To Net: NetName=12V Pin=Q-TAB
+Added Member To Class: ClassName=Peripheral Member=Component Q IPD025N06N
